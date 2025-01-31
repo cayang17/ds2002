@@ -1,1 +1,1 @@
-# ds2002
+# ds2002 assignments repository
